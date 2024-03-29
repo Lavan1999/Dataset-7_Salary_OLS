@@ -6,7 +6,7 @@ This repository contains the python code and documentation for analyzing the "sa
 Our goal is to explore, analyze, and draw insights from this data.
 
 ## Dataset Description
-The "Salary" dataset contains information about Annual income and Spending Score. Each entry represents a unique 
+The "Salary" dataset contains information about Years of Experience and salary. Each entry represents a unique 
 dining experience and includes the following columns:
 
 - ** "YearsExperience"**: Represents the number of years of experience of individuals in a particular field.
