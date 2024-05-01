@@ -3,7 +3,7 @@
 ## Overview
 This repository contains the python code and documentation for analyzing the "salary" dataset using
  Python and statistical methods. The dataset consists of various variables related to YearsExperience, Salary.
-Our goal is to explore, analyze, and draw insights from this data.
+Our goal is to explore, analyze, and draw insights from this datas.
 
 ## Dataset Description
 The "Salary" dataset contains information about Years of Experience and salary. Each entry represents a unique 
